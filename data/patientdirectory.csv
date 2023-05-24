@@ -1,0 +1,7 @@
+﻿patient_id,phic_id,fname,mname,lname,extname,birthdate,birthplace,mobilenum,bio_sex,civilstatus,ip_status
+100,252-111-000,Juan,,Dela Cruz,,,Manila,9271111112,M,Single,N
+101,111-242-001,Mark,,Pingris,,,Las Pinas,9271111111,M,Married,N
+102,421-223-002,Jose,Mercado,Rizal,,,Japan,9271111411,M,Widowed,Y
+103,324-004-991,Apolinario,,Mabini,,,Nueva Ecija,9271113331,M,Single,Y
+104,442-012-990,Juan,Ponce,Enrile,,,Bataan,9171111111,M,Married,N
+105,555-551-481,Andres,,Bonifacio,,,Pasig,9271111555,M,Widowed,Y
